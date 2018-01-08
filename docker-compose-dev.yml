@@ -12,7 +12,7 @@ services:
       MYSQL_PORT: 3306
       MYSQL_USER: root
       MYSQL_PASS:
-      MYSQL_DB_NAME: datagrid
+      MYSQL_DB_NAME: datagrid_sandbox
 
   mysql:
     image: mysql:5.7
